@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Chronicles</title>
+    <link rel="stylesheet" href="TypeFast.css">
+    <link rel="stylesheet" href="Actionbutton.css">
+</head>
+<body>
+    <div class="mainer1">
+    <div class="difficulty">
+        <select name="Difficulty" id="diff">
+            <option value="1">Easy</option>
+            <option value="2">Medium</option>
+            <option value="3">Hard</option>
+        </select>
+    </div>
+    <div class="header">The TYPING CHRONICLES...</div>
+    <h1 class="h11">High-Score:<h2 class="HighScore"></h2></h1>
+    <div class="main">
+        <h1 class="word">Extravaganza</h1>
+        <input type="text" id="inpt"/>
+        <h2 class="timer"></h2>
+        <div class="score">Score:0</div>
+    </div>
+    </div>
+    <div class="tutorial">
+        <h1>Tutorial:</h1>
+        <h2>Welcome to the Typing Chronicles, a game for all you speed typers!</h2>
+        <h2>Never,mind the rules are:</h2>
+        <ul>
+            <ol>You have to type the Word within the Given time limit.</ol>
+            <ol>You can Select Difficulty!{hard:400ms ,medium:600ms ,hard:1000ms}</ol>
+            <ol>Your score will increase as hard=+2, medium:+1, easy:+1</ol>
+            <ol>Share with your Friends your result!</ol>
+        </ul>
+    </div>
+    <div class="fun">
+        <h1>It was fun! Wasn't it?</h1>
+        <h2>wanna retry?</h2>
+        <button id="btn1">RETRY</button>
+    </div>
+    <div class="action" onclick="toggler()">
+        <span>+</span>
+        <ul>
+            <li><img src="fb1.png" alt="$">share on facebook</li>
+            <li><img src="instg1.png" alt="$">share on instagram</li>
+            <li><img src="twtr4.png" alt="$">share on twitter</li>
+            <li><img src="whsp1.png" alt="$">share on whatsapp</li>
+        </ul>
+    </div>
+    <script src="TypeFast.js"></script>
+</body>
+</html>
