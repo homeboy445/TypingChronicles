@@ -6,7 +6,7 @@ features of the app:
 
 2.)It has a nice UI.
 
-3.)It inculcates  a hell lot ofn Javascript!
+3.)It inculcates  a hell lot of Javascript in it!
 
 4.)You are free to edit anything!
 
