@@ -10,4 +10,4 @@ features of the app:
 
 4.)You are free to edit anything!
 
-fork it!   and Have fun!
+Fork it!   and Have fun!
