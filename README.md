@@ -6,6 +6,5 @@ features of the app:
 
 2.)It has a nice UI.
 
-3.)You are free to edit anything!
-
-Fork it!   and Have fun!
+Do check it out and contribute to it if you want to 
+improve something.
